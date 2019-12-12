@@ -1,0 +1,4 @@
+# MNIST_Dataset_KNN_Algorithm
+
+
+Download MNIST DATASET FORM KAGGLE WEBSITE
